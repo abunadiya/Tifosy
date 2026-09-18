@@ -1,0 +1,9 @@
+# Fichiers temporaires
+*.bin
+Thumbs.db
+.DS_Store
+
+# Extraire du PDF (ne pas versionner)
+mcd-extract-*.jpg
+mcd-mask.png
+img-raw-*.bin
